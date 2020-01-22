@@ -24,7 +24,7 @@ include <stdio.h>
     }
     printf("%d\n",sum);
   }
-
+//cdgfyjvbkj
   
     return 0;
 }
